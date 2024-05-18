@@ -8,6 +8,7 @@ import Had from './Had';
 import { Provider } from 'react-redux';
 import store from './rtk/Store';
 
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
